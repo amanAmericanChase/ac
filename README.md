@@ -1,2 +1,1 @@
-# ac
-learning github
+Hi, This is my first Repo.
